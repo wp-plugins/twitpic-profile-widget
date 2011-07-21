@@ -3,7 +3,7 @@ Contributors: peter2322
 Donate link: https://code.google.com/p/world-travel-blog
 Tags: twitpic, twitter, pictures, images
 Requires at least: 3.1.3
-Tested up to: 3.1.3
+Tested up to: 3.2.1
 Stable tag: 1.0
 
 This widget will display your Twitpic Profile in the widget area displaying your latest twitpics.
